@@ -1,0 +1,10 @@
+a=int(input("Enter value of n1:')
+b=int(input("Enter value of n2:')
+c=int(input("Enter value of n3:')
+if(a>b and a>c):
+    printf("large number is :",a)
+if(b>a and b>c):
+    printf("large number is :",b)
+else:
+   printf("largest number is :",c)
+
